@@ -3,7 +3,7 @@ package factory;
 /**
  * 数据运算基类
  * 
- * @author KLP
+ * @author KLP 
  *
  */
 public class Operation {
